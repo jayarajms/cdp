@@ -2,5 +2,5 @@
   href: docs/
   homepage: docs/overview.md
 - name: Beginners Tutorial
-  href: docs/
-  homepage: docs/tut-home.md
+  href: tuts/
+  homepage: tuts/home.md
