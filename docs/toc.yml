@@ -1,3 +1,6 @@
 - name: Documentation
   href: docs/
   homepage: docs/overview.md
+- name: Beginners Tutorial
+  href: docs/
+  homepage: docs/overview.md
