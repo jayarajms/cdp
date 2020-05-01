@@ -1,1 +1,1 @@
-# Welcome to SkyPoint CDP Beginners Tutorial.
+# Welcome to SkyPoint CDP - Beginners Tutorial.
